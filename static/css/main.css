@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Antic|Parisienne');
+
+body {
+    background: rgb(233, 233, 233);
+}
+
+body > #whi-Holder {
+    font-family: "Antic", sans-serif;
+}
+
